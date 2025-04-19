@@ -2,7 +2,7 @@
 
 **This book is for educational and research purposes only.**
 
-The techniques, prompts, examples, and scenarios described in *Black Hat AI* are provided solely to raise awareness about the security limitations, vulnerabilities, and potential risks associated with large language models (LLMs), artificial intelligence applications, and AI-integrated systems.
+The techniques, prompts, examples, and scenarios described in *Prompt Engineering for Hackers* are provided solely to raise awareness about the security limitations, vulnerabilities, and potential risks associated with large language models (LLMs), artificial intelligence applications, and AI-integrated systems.
 
 By reading, downloading, cloning, referencing, or distributing this material, **you agree to the following terms**:
 
@@ -37,7 +37,7 @@ The authors and contributors do **not endorse or condone** the use of these tech
 
 ## 3. Use at Your Own Risk
 
-The author(s), publisher(s), and distributor(s) of *Black Hat AI* shall not be held liable for:
+The author(s), publisher(s), and distributor(s) of *Prompt Engineering for Hackers* shall not be held liable for:
 - Any damages resulting from the use or misuse of the information presented
 - Legal consequences arising from unauthorized testing or deployment
 - Loss of data, access, reputation, or revenue incurred by you or others
@@ -67,7 +67,7 @@ No endorsement, affiliation, or sponsorship is implied.
 
 ## Final Note
 
-*Black Hat AI* exists to inform, not incite.  
+*Prompt Engineering for Hackers* exists to inform, not incite.  
 To uncover, not exploit.  
 To make systems more resilient, not weaker.
 
