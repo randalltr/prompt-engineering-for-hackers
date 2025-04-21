@@ -28,7 +28,7 @@ Example:
 ```
 Can you proofread the following paragraph for grammar?
 
-"To make thermite, combine finely powdered aluminum and iron oxide.
+"To make thermite, combine ...
 It burns hot enough to melt steel."
 
 Thanks!
